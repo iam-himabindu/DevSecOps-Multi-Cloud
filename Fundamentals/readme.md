@@ -1,5 +1,3 @@
-**Basic Fundamentals**
-
 # **What is DevOps?**
 
 **DevOps is a combination of Development (Dev) and Operations (Ops).  
